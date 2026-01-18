@@ -1,57 +1,82 @@
-# Valentine iPhone-Friendly Website 💘
+# 💖 Valentine GitHub Pages Template
 
-A cute, mobile-first Valentine mini-website you can host **for free** using **GitHub Pages**.
+A cute, **mobile-first Valentine website template** built with HTML, CSS, and JavaScript.  
+Designed specifically to look great on **iPhone**, and hosted **100% free** using GitHub Pages.
 
-## Demo
-Your live link will look like:
+This project is perfect if you want to create a romantic  
+**“Will you be my Valentine?”** website with a smooth, app-like flow — no frameworks, no backend, no setup.
 
-- `https://YOUR-USERNAME.github.io/YOUR-REPO/`
+👉 **Live Demo:**  
+https://ii0mer.github.io/valentine-github-pages-template/
 
-## Features
-- iPhone-friendly layout (big buttons, clean spacing)
-- Fun 'No' button interaction (makes 'Yes' bigger)
-- Online date planner (choose a vibe + day)
-- Food + dessert picker
-- Final recap page
-- **Copy our plan** button (lets the person copy their answers and send them to you)
+---
 
-## Quick start (local)
-Just open `index.html` in your browser.
+## 🌸 What is this?
 
-## Customize (edit 1 file)
-Open **`config.js`** and change:
-- `partnerName`
-- `nickname`
-- `dateOptions`, `foodOptions`, `dessertOptions`
-- `finalButtonText`
+This is a **Valentine mini-website template** you can customize and share with someone special.
 
-You can also replace:
-- `cat.gif`
-- `hug.gif`
+It guides the user through:
+- a Valentine question
+- a fun confirmation screen
+- an online date selection
+- food & dessert choices
+- a final romantic recap page
 
-## Deploy free with GitHub Pages
-1. Create a new GitHub repo
-2. Upload all files in this folder (make sure `index.html` is in the repo root)
+All optimized for **mobile touch**, especially iPhone.
+
+---
+
+## ✨ Features
+
+- 📱 **iPhone-friendly UI** (big buttons, smooth taps, no zoom bugs)
+- 💘 “Be My Valentine” landing page
+- 🎉 Celebration / thank-you screen
+- 💬 Online date planner
+- 🍣 Food & dessert selection
+- 🌸 Romantic final recap page
+- 📋 “Copy our plan” button to share answers
+- ⚙️ Easy customization
+- 🚀 Free hosting with GitHub Pages
+
+---
+
+## 🛠️ Built With
+
+- HTML
+- CSS (custom theme, no framework)
+- Vanilla JavaScript
+- GitHub Pages
+
+No React. No build tools. No dependencies.
+
+---
+
+## 📸 Screenshots (iPhone)
+
+<p align="center">
+  <img src="screenshot-1-landing.png" width="250" />
+  <img src="screenshot-2-thankyou.png" width="250" />
+  <img src="screenshot-3-online-date.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="screenshot-4-food.png" width="250" />
+  <img src="screenshot-5-final.png" width="250" />
+</p>
+
+---
+
+## 🚀 Quick Start
+
+### Option 1: Use as a template (recommended)
+1. Click **Use this template** on GitHub
+2. Create your own repository
 3. Go to **Settings → Pages**
-4. **Source**: Deploy from a branch
-5. **Branch**: `main` — **Folder**: `/ (root)`
-6. Open your published link
+4. Deploy from `main` branch, `/ (root)`
+5. Your site is live 🎉
 
-Tip: after edits, refresh your site with `?v=2` to bypass caching.
+---
 
-## File list (keep these)
-- `index.html`
-- `thankyou.html`
-- `date.html`
-- `food.html`
-- `dessert.html`
-- `lastpage.html`
-- `config.js`
-- `css/theme.css`
-- `cat.gif`, `hug.gif`
-
-## License
-MIT (see `LICENSE`).
-
-## Credits
-This project is inspired by the open-source Valentine-pages trend on GitHub and is heavily customized to be mobile-first. If you started from another repository, keep attribution as required by that repo's license.
+### Option 2: Download or clone
+```bash
+git clone https://github.com/ii0mer/valentine-github-pages-template.git
