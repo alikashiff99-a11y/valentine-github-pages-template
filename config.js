@@ -19,3 +19,5 @@ window.VALENTINE_CONFIG = {
   finalButtonText: "Thank you for being my Valentine ❤️, I love you so much!",
   shareMessageFooter: "I hope you liked this website I created only for you. Link on instagram."
 };
+
+
